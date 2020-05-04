@@ -21,6 +21,7 @@ Your bibliography should be located in the Bibliophy.bib file in Bibtex format. 
 Below, you can find the file and folder structure along with the changes that are need to be made for ones thesis: 
 
 * __main.tex__
+
   The entire document is based on this file. All one needs to do is, replace the *Title of the Project* field.
   
 * __completioncertificate.tex__
@@ -74,6 +75,7 @@ Below, you can find the file and folder structure along with the changes that ar
       This is where the literature review comes in
  
 * __figures/__
+  
   Put all the figures needed for the document in this folder
 
 
