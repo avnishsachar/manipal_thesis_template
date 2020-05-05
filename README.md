@@ -74,7 +74,7 @@ Below, you can find the file and folder structure along with the changes that ar
     * __results&discussion.tex__
       This is where the literature review comes in
       
-    *__Manipal_Institute_of_Technology__Thesis_Template.pdf__
+    * __Manipal_Institute_of_Technology__Thesis_Template.pdf__
       Preview of the template in pdf format
  
 * __figures/__
