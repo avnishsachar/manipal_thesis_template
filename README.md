@@ -2,7 +2,7 @@
 
 Latex template for writing a thesis in the style required by Manipal Institute of Technology. 
 I tried to document it nicely and have it compile without any errors or
-warnings.
+warnings. I have attached a preview of it in pdf format too.
 
 
 ## Writing your thesis:
@@ -73,6 +73,9 @@ Below, you can find the file and folder structure along with the changes that ar
       
     * __results&discussion.tex__
       This is where the literature review comes in
+      
+    *__Manipal_Institute_of_Technology__Thesis_Template.pdf__
+      Preview of the template in pdf format
  
 * __figures/__
   
